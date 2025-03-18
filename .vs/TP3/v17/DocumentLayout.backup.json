@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R21\\Documents\\TP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|c:\\users\\r21\\documents\\tp3\\utils\\formatomoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|solutionrelative:utils\\formatomoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|c:\\users\\r21\\documents\\tp3\\utils\\limpaconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|solutionrelative:utils\\limpaconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|c:\\users\\r21\\documents\\tp3\\exercicios\\classes\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|solutionrelative:exercicios\\classes\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|c:\\users\\r21\\documents\\tp3\\observacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|solutionrelative:observacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|c:\\users\\r21\\documents\\tp3\\exercicios\\classes\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|solutionrelative:exercicios\\classes\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|c:\\users\\r21\\documents\\tp3\\exercicios\\classes\\esfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|solutionrelative:exercicios\\classes\\esfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|c:\\users\\r21\\documents\\tp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665D0058-00E6-4E46-815E-DE6C1F2A577D}|TP3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\R21\\Documents\\TP3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\R21\\Documents\\TP3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:15:44.909Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormatoMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\R21\\Documents\\TP3\\Utils\\FormatoMoeda.cs",
+              "RelativeDocumentMoniker": "Utils\\FormatoMoeda.cs",
+              "ToolTip": "C:\\Users\\R21\\Documents\\TP3\\Utils\\FormatoMoeda.cs",
+              "RelativeToolTip": "Utils\\FormatoMoeda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:04:13.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ingresso.cs",
+              "DocumentMoniker": "C:\\Users\\R21\\Documents\\TP3\\Exercicios\\Classes\\Ingresso.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Classes\\Ingresso.cs",
+              "ToolTip": "C:\\Users\\R21\\Documents\\TP3\\Exercicios\\Classes\\Ingresso.cs",
+              "RelativeToolTip": "Exercicios\\Classes\\Ingresso.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:03:00.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LimpaConsole.cs",
+              "DocumentMoniker": "C:\\Users\\R21\\Documents\\TP3\\Utils\\LimpaConsole.cs",
+              "RelativeDocumentMoniker": "Utils\\LimpaConsole.cs",
+              "ToolTip": "C:\\Users\\R21\\Documents\\TP3\\Utils\\LimpaConsole.cs",
+              "RelativeToolTip": "Utils\\LimpaConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:02:46.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Observacoes.cs",
+              "DocumentMoniker": "C:\\Users\\R21\\Documents\\TP3\\Observacoes.cs",
+              "RelativeDocumentMoniker": "Observacoes.cs",
+              "ToolTip": "C:\\Users\\R21\\Documents\\TP3\\Observacoes.cs",
+              "RelativeToolTip": "Observacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:59:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Esfera.cs",
+              "DocumentMoniker": "C:\\Users\\R21\\Documents\\TP3\\Exercicios\\Classes\\Esfera.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Classes\\Esfera.cs",
+              "ToolTip": "C:\\Users\\R21\\Documents\\TP3\\Exercicios\\Classes\\Esfera.cs",
+              "RelativeToolTip": "Exercicios\\Classes\\Esfera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:58:43.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\R21\\Documents\\TP3\\Exercicios\\Classes\\Circulo.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Classes\\Circulo.cs",
+              "ToolTip": "C:\\Users\\R21\\Documents\\TP3\\Exercicios\\Classes\\Circulo.cs",
+              "RelativeToolTip": "Exercicios\\Classes\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:53:15.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
